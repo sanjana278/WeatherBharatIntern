@@ -1,0 +1,42 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .main {
+    margin-bottom: 20px;
+  }
+  
+  .inputs {
+    margin-bottom: 20px;
+  }
+  
+  .inputs input[type="text"] {
+    width: 200px;
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .inputs button {
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .display {
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .wrapper {
+    text-align: center;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 5px;
+  }
+  
